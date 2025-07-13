@@ -57,7 +57,7 @@ tic-tac-toe/
 ```bash
 # Clone the repository
 git clone https://github.com/Alhuzsyam/tictactoe-thymeleaf-Java-.git
-cd tic-tac-toe-java
+cd tictactoe-thymeleaf-Java- 
 
 # Build and run the application
 ./mvnw spring-boot:run
