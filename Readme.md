@@ -1,7 +1,6 @@
 # 🕹️ Tic-Tac-Toe Java Web (Configurable Board)
 
 This is a web-based implementation of the classic Tic-Tac-Toe game built with **Java Spring Boot** using **Thymeleaf** as the template engine.  
-It was developed as part of the backend recruitment test for **FWD Singapore**.
 
 ---
 
