@@ -16,6 +16,13 @@ It was developed as part of the backend recruitment test for **FWD Singapore**.
 
 ---
 
+## 🌐 Live Demo
+
+You can also try it at this link:  
+👉 **[http://43.165.197.160:8088/](http://43.165.197.160:8088/)**
+
+---
+
 ## 🧱 Tech Stack
 
 - Java 17
@@ -49,11 +56,22 @@ tic-tac-toe/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-java.git
+git clone https://github.com/Alhuzsyam/tictactoe-thymeleaf-Java-.git
 cd tic-tac-toe-java
 
 # Build and run the application
 ./mvnw spring-boot:run
 
 Visit http://localhost:8088 on your browser.
+
+
+🖥️ Usage
+You can choose a board size (3 or more) on the home page.
+
+Click Start New Game to reinitialize the board.
+
+Input the coordinates of the cell (row, col) to make a move.
+
+The game will detect if a player wins or the game ends in a draw.
+
 
