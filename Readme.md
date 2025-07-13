@@ -40,8 +40,8 @@ tic-tac-toe/ <br>
     ── model/ → OOP model classes (Board, Player, Move) <br>
     ── service/ → Game logic handler (GameService) <br>
     ── resources/ <br> 
-&nbsp;  ── templates/ <br>
-&nbsp;  ── index.html → Web UI <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ── templates/ <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ── index.html → Web UI <br>
     ── TicTacToeApplication.java <br>
 
 ---
