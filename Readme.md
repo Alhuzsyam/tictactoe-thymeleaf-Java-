@@ -36,13 +36,13 @@ You can also try it at this link:
 ## 📦 Project Structure
 
 tic-tac-toe/
-├── controller/ → Spring MVC controller (GameController)
-├── model/ → OOP model classes (Board, Player, Move)
-├── service/ → Game logic handler (GameService)
-├── resources/
-│ └── templates/
-│ └── index.html → Web UI
-└── TicTacToeApplication.java
+    ── controller/ → Spring MVC controller (GameController)
+    ── model/ → OOP model classes (Board, Player, Move)
+    ── service/ → Game logic handler (GameService)
+    ── resources/
+        ── templates/
+        ── index.html → Web UI
+    ── TicTacToeApplication.java
 
 ---
 
